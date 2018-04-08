@@ -1,0 +1,17 @@
+
+body {
+background: rgb(53,50,107);
+background: radial-gradient(circle, rgba(53,50,107,1) 0%, rgba(25,115,55,1) 0%, rgba(7,14,11,1) 47%, rgba(54,109,122,1) 100%);
+
+
+}
+
+input {
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    width:60%;
+    margin: 0 auto;
+}
